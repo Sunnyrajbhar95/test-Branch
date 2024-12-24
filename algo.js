@@ -1,1 +1,2 @@
-console.log("binary search")
+// const get=require("./banch")
+// console.log(get.get());
